@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_header">24dp</dimen>
+    <dimen name="padding_header">8dp</dimen>
+    <dimen name="padding_img">8dp</dimen>
+    <dimen name="card_side_margin">10dp</dimen>
+    <dimen name="card_bottom_margin">10dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="plant_item_image_height">150dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_24sp">24sp</dimen>
+    <dimen name="text_28sp">28sp</dimen>
+    <dimen name="txt_marging">16dp</dimen>
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+</resources>
